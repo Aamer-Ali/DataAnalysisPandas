@@ -8,4 +8,8 @@ print(dataFrame.set_index("ID"))
 #loc -- range inthe form of label
 #iloc -- range in the form of index number
 # ix -- range mixed labels and index
-# [:,:]
+# [:,:] -- All rows all columns
+# [:,:] -- All rows range of columns
+# [:,:] -- Range rows all columns
+# [:,:] -- Range rows Range columns
+
